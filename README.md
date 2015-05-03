@@ -46,3 +46,9 @@ git drop myplot.pdf
 # get a file from a remote where it is available
 git get myplot.pdf
 ```
+
+if you like to save space on your local machine, you can move all cached files that are not currently used by any branch HEAD
+
+```bash
+git annex move --unused --to ebi
+```
