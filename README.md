@@ -1,4 +1,4 @@
-# scientific-git
+# git-annex
 
 normal usage of git
 advantages of using VCS
